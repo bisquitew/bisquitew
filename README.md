@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer-science student, on the Artificial Intelligence department, i love cybersecurity and wish to find a job in that domain, i'm semi pro Counter-Strike player and love photography
+Currently pursuing a degree in Computer Science with a specialization in Artificial Intelligence. I am deeply passionate about cybersecurity and am actively seeking professional opportunities to apply my technical skills within the infosec domain.
 
 
 ## 🌐 Socials:
