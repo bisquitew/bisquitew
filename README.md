@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20student%20majoring%20Artificial%20Intelligence&fontSize=35&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20student%20majoring%20Artificial%20Intelligence&fontSize=33&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <h1>💫 About Me</h1>
   
