@@ -56,15 +56,13 @@
   ---
 
   <h1>📊 GitHub Stats</h1>
-  
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bisquitew&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisquitew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bisquitew&theme=dark&hide_border=false" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisquitew&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
   </p>
-  
-  <p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
-  </p>
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
+</p>
 
   <h3>🔝 Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisquitew&layout=compact&theme=dark" />
