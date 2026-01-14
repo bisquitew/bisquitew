@@ -59,15 +59,9 @@
   
   <img src="https://github.com/bisquitew/bisquitew/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" width="100%"/>
   
-  <br/><br/>
-  
   <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
 
-  <br/><br/>
-  
   <img src="https://github.com/bisquitew/bisquitew/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
-
-  <br/><br/>
   
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=bisquitew&icon=0&color=0" />
