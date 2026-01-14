@@ -56,15 +56,15 @@
   ---
 
   <h1>📊 GitHub Stats</h1>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bisquitew&theme=dark&hide_border=false" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisquitew&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
-  </p>
-  <p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
-  </p>
+  
+  <img src="https://github.com/bisquitew/bisquitew/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" width="100%"/>
+  
+  <br/><br/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
 
-  <br/>
+  <br/><br/>
+  
   <img src="https://github.com/bisquitew/bisquitew/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
 
   <br/><br/>
