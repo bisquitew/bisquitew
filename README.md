@@ -66,11 +66,8 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
   </p>
 
-  <h3>🏆 Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=bisquitew&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=bisquitew&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributions" />
+  <h3>🔝 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisquitew&layout=compact&theme=dark" />
 
   <br/>
   <img src="https://github.com/bisquitew/bisquitew/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
