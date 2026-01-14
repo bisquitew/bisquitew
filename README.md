@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20student%20majoring%20Artificial%20Intelligence&fontSize=35&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <h1>💫 About Me</h1>
   
@@ -60,12 +60,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bisquitew&theme=dark&hide_border=false" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisquitew&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
   </p>
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
-</p>
-
-  <h3>🔝 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisquitew&layout=compact&theme=dark" />
+  <p>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
+  </p>
 
   <br/>
   <img src="https://github.com/bisquitew/bisquitew/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
