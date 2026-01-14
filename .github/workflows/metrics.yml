@@ -14,8 +14,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # UPDATED: Use the custom token to see private repos
+          # 👇 THIS WAS THE PROBLEM. IT IS NOW FIXED:
           token: ${{ secrets.METRICS_TOKEN }}
+          
           user: bisquitew
           template: classic
           base: header, activity, community, repositories, metadata
