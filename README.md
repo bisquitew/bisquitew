@@ -63,10 +63,6 @@
 
   <img src="https://github.com/bisquitew/bisquitew/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
   
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=bisquitew&icon=0&color=0" />
-  </a>
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
