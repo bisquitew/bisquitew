@@ -19,6 +19,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bucharest
+          
+          # Plugin: Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
+          
+          # Plugin: Repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: bisquitew/SAT, bisquitew/p3marketplaceproject
+          plugin_repositories_order: featured
+          plugin_repositories_pinned: 0
