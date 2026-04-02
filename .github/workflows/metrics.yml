@@ -29,6 +29,7 @@ jobs:
           
           # Plugin: Repositories
           plugin_repositories: yes
-          plugin_repositories_featured: bisquitew/SAT, bisquitew/p3marketplaceproject
+          plugin_repositories_featured: bisquitew/Parkie,bisquitew/SAT, bisquitew/Handymen-Marketplace
+
           plugin_repositories_order: featured
           plugin_repositories_pinned: 0
