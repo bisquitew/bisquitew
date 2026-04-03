@@ -48,6 +48,29 @@
   </table>
 
   <br>
+
+  <h3>🏆 CTF Achievements</h3>
+  <table style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 15px; color: white; width: 85%;">
+    <tr>
+      <td colspan="2" align="left" style="padding: 15px;">
+        <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>UniVsThreats26 Quals</b> (2026)
+        <br>
+        <code style="color: #9400D3;">&gt; Ranking: Placed Top 100 out of 600 competing teams worldwide.</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+        <b>Bypassed & Decoded</b><br>
+        <font size="2" color="#8b949e">Web | Crypto | Stego | Blockchain</font>
+      </td>
+      <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+        <b>Technical Challenges Solved</b><br>
+        <font size="1" color="#d2a8ff">Nightmare Customer • Celestial Body • Stellar Frequencies • Andromeda Casino</font>
+      </td>
+    </tr>
+  </table>
+
+  <br>
   ---
 
   <h1>💻 Tech Stack</h1>
