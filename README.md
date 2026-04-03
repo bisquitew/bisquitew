@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20student%20majoring%20Artificial%20Intelligence&fontSize=33&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20student&fontSize=33&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <h1>💫 About Me</h1>
   
@@ -8,60 +8,128 @@
     Currently pursuing a degree in <b>Computer Science</b> with a specialization in <b>Artificial Intelligence</b>. <br/>
     I am deeply passionate about <b>cybersecurity</b> and am actively seeking professional opportunities to apply my technical skills within the infosec domain.
   </p>
-  
-  <h3>🌐 Connect with Me</h3>
-  <a href="https://instagram.com/bisquitew">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/gabriel-pusa-56061238b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/bisquitew">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://youtube.com/@bisquitew">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Student;CTF+Player;" alt="Typing SVG" />
+
+  <h3>🌐 Connect with Me</h3>
+  <div align="center">
+    <a href="https://linkedin.com/in/gabriel-pusa-56061238b/">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/bisquitew">
+      <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
+    </a>
+    <a href="https://x.com/bisquitew">
+      <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="X"/>
+    </a>
+  </div>
+
+  <br>
+
+  <h3>⚔️ Security Profile</h3>
+  <table style="background-color: black; border: 1px solid #333; border-radius: 10px; color: white;">
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/security-checked.png"/><br>
+        <b>Status</b><br>
+        <font color="#00FF00">Active Researcher</font>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/skull.png"/><br>
+        <b>Focus</b><br>
+        Pentesting / AI-Sec
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/source-code.png"/><br>
+        <b>Tools</b><br>
+        BurpSuite / Nmap
+      </td>
+    </tr>
+  </table>
+
+  <br>
   ---
 
   <h1>💻 Tech Stack</h1>
 
-  <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="5" align="center" style="color: white; padding: 10px;">Languages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=c" width="50" height="50"/><br>C</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br>C++</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>JavaScript</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>Python</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><br>Java</td>
+      </tr>
+    </tbody>
+  </table>
 
-  <h3>Frameworks & Runtimes</h3>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <br>
 
-  <h3>Tools, Databases & Cloud</h3>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="5" align="center" style="color: white; padding: 10px;">Frameworks & Runtimes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/><br>.NET</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br>Node.js</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>React Native</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=angular" width="50" height="50"/><br>Angular</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=django" width="50" height="50"/><br>Django</td>
+      </tr>
+    </tbody>
+  </table>
 
-  <h3>Creative & Other</h3>
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+  <br>
+
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="5" align="center" style="color: white; padding: 10px;">Infrastructure, Databases & Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=supabase" width="50" height="50"/><br>Supabase</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=kali" width="50" height="50"/><br>Kali Linux</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=go" width="50" height="50"/><br>Go</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/><br>AWS</td>
+        <td align="center" style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br>MySQL</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br>
+  ---
+
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3mpsx78rk6ulafjd0spn6fmcs&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3mpsx78rk6ulafjd0spn6fmcs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true" width="400">
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://steamcommunity.com/id/bisquitew/">
+          <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198322227526&show_in_game_bg=true&show_recent_game_bg=false" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   ---
 
   <h1>📊 GitHub Stats</h1>
   
   <img src="https://github.com/bisquitew/bisquitew/blob/main/github-metrics.svg?raw=true" alt="GitHub Metrics" width="100%"/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bisquitew&theme=dark&hide_border=false" alt="Streak" />
-
-  <img src="https://github.com/bisquitew/bisquitew/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
