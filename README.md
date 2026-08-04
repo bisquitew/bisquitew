@@ -5,8 +5,10 @@
   <h1>💫 About Me</h1>
   
   <p>
-    Currently pursuing a degree in <b>Computer Science</b> with a specialization in <b>Artificial Intelligence</b>. <br/>
-    I am deeply passionate about <b>cybersecurity</b> and am actively seeking professional opportunities to apply my technical skills within the infosec domain.
+    Computer Science student specializing Artificial Intelligence, offensive security, vulnerability
+assessment, and adversarial problem-solving. Proven track record in high-stakes jeopardy CTFs and delivering client-facing web and
+wireless penetration tests for local SMEs. Combines strong low-level systems and software engineering experience with
+practical expertise across web exploitation, cryptography, and network defense
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Student;CTF+Player;" alt="Typing SVG" />
@@ -49,26 +51,65 @@
 
   <br>
 
-  <h3>🏆 CTF Achievements</h3>
-  <table style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 15px; color: white; width: 85%;">
-    <tr>
-      <td colspan="2" align="left" style="padding: 15px;">
-        <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>UniVsThreats26 Quals</b> (2026)
-        <br>
-        <code style="color: #9400D3;">&gt; Ranking: Placed Top 100 out of 600 competing teams worldwide.</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
-        <b>Bypassed & Decoded</b><br>
-        <font size="2" color="#8b949e">Web | Crypto | Stego | Blockchain</font>
-      </td>
-      <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
-        <b>Technical Challenges Solved</b><br>
-        <font size="1" color="#d2a8ff">Nightmare Customer • Celestial Body • Stellar Frequencies • Andromeda Casino</font>
-      </td>
-    </tr>
-  </table>
+<h3>🏆 CTF Achievements</h3>
+<table style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 15px; color: white; width: 85%;">
+  <!-- UniVsThreats26 Quals -->
+  <tr>
+    <td colspan="2" align="left" style="padding: 15px;">
+      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>UniVsThreats26 Quals</b> (2026)
+      <br>
+      <code style="color: #9400D3;">&gt; Ranking: Placed Top 100 out of 600 competing teams worldwide.</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+      <b>Bypassed & Decoded</b><br>
+      <font size="2" color="#8b949e">Web | Crypto | Stego | Blockchain</font>
+    </td>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+      <b>Technical Challenges Solved</b><br>
+      <font size="1" color="#d2a8ff">Nightmare Customer • Celestial Body • Stellar Frequencies • Andromeda Casino</font>
+    </td>
+  </tr>
+
+  <!-- ZeroDay 2026 CTF -->
+  <tr>
+    <td colspan="2" align="left" style="padding: 15px; border-top: 2px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>ZeroDay™ CTF</b> (2026)
+      <br>
+      <code style="color: #9400D3;">&gt; Ranking: Placed 11th out of 30 teams (Senior Category).</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+      <b>Attack Vectors & Exploits</b><br>
+      <font size="2" color="#8b949e">PHP Injection | Crypto | Auth Forgery</font>
+    </td>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+      <b>Engineered Solutions</b><br>
+      <font size="1" color="#d2a8ff">Known Plaintext Attacks • PHP Injection • JWT Forgery • 8-Hour Jeopardy</font>
+    </td>
+  </tr>
+
+  <!-- Cyber Apocalypse 2026 (Hack The Box) -->
+  <tr>
+    <td colspan="2" align="left" style="padding: 15px; border-top: 2px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>Cyber Apocalypse - The Salt Crown CTF (Hack The Box)</b> (2026)
+      <br>
+      <code style="color: #9400D3;">&gt; Ranking: Placed 282nd out of 7,000+ competing teams worldwide.</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+      <b>Bypassed & Decoded</b><br>
+      <font size="2" color="#8b949e">Forensics | OSINT | RevEng | Crypto | Blockchain</font>
+    </td>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+      <b>Competition Scope</b><br>
+      <font size="1" color="#d2a8ff">Solved Advanced Challenges Across 16 Categories • Global Online CTF</font>
+    </td>
+  </tr>
+</table>
 
   <br>
   ---
