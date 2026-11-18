@@ -53,41 +53,22 @@ practical expertise across web exploitation, cryptography, and network defense
 
 <h3>🏆 CTF Achievements</h3>
 <table style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 15px; color: white; width: 85%;">
-  <!-- UniVsThreats26 Quals -->
+  <!-- z0d1ak CTF Qualifiers 2026 -->
   <tr>
     <td colspan="2" align="left" style="padding: 15px;">
-      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>UniVsThreats26 Quals</b> (2026)
+      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>z0d1ak CTF Qualifiers 2026 (UVT-CTF)</b> (2026)
       <br>
-      <code style="color: #9400D3;">&gt; Ranking: Placed Top 100 out of 600 competing teams worldwide.</code>
+      <code style="color: #9400D3;">&gt; Ranking: Placed 30th out of 1,252 competing teams worldwide.</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
       <b>Bypassed & Decoded</b><br>
-      <font size="2" color="#8b949e">Web | Crypto | Stego | Blockchain</font>
+      <font size="2" color="#8b949e">OSINT | Web | Crypto | RevEng</font>
     </td>
     <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
-      <b>Technical Challenges Solved</b><br>
-      <font size="1" color="#d2a8ff">Nightmare Customer • Celestial Body • Stellar Frequencies • Andromeda Casino</font>
-    </td>
-  </tr>
-
-  <!-- ZeroDay 2026 CTF -->
-  <tr>
-    <td colspan="2" align="left" style="padding: 15px; border-top: 2px solid #30363d;">
-      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>ZeroDay™ CTF</b> (2026)
-      <br>
-      <code style="color: #9400D3;">&gt; Ranking: Placed 11th out of 30 teams (Senior Category).</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
-      <b>Attack Vectors & Exploits</b><br>
-      <font size="2" color="#8b949e">PHP Injection | Crypto | Auth Forgery</font>
-    </td>
-    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
-      <b>Engineered Solutions</b><br>
-      <font size="1" color="#d2a8ff">Known Plaintext Attacks • PHP Injection • JWT Forgery • 8-Hour Jeopardy</font>
+      <b>Competition Highlights</b><br>
+      <font size="1" color="#d2a8ff">7th/1,252 in Geolocation OSINT • Strict Time-Limited Jeopardy</font>
     </td>
   </tr>
 
@@ -107,6 +88,87 @@ practical expertise across web exploitation, cryptography, and network defense
     <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
       <b>Competition Scope</b><br>
       <font size="1" color="#d2a8ff">Solved Advanced Challenges Across 16 Categories • Global Online CTF</font>
+    </td>
+  </tr>
+
+  <!-- ZeroDay 2026 CTF -->
+  <tr>
+    <td colspan="2" align="left" style="padding: 15px; border-top: 2px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>ZeroDay™ CTF</b> (2026)
+      <br>
+      <code style="color: #9400D3;">&gt; Ranking: Placed 11th out of 30 teams (Senior Category).</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+      <b>Attack Vectors & Exploits</b><br>
+      <font size="2" color="#8b949e">PHP Injection | Crypto | Auth Forgery</font>
+    </td>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+      <b>Engineered Solutions</b><br>
+      <font size="1" color="#d2a8ff">Known Plaintext Attacks • PHP Injection • JWT Forgery • 8-Hour No-AI Jeopardy</font>
+    </td>
+  </tr>
+
+  <!-- UniVsThreats26 Quals -->
+  <tr>
+    <td colspan="2" align="left" style="padding: 15px; border-top: 2px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/30/trophy.png" align="center"/> <b>UniVsThreats26 Quals</b> (2026)
+      <br>
+      <code style="color: #9400D3;">&gt; Ranking: Placed Top 100 out of 600 competing teams worldwide.</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+      <b>Bypassed & Decoded</b><br>
+      <font size="2" color="#8b949e">Web | Crypto | Stego | Blockchain</font>
+    </td>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+      <b>Technical Challenges Solved</b><br>
+      <font size="1" color="#d2a8ff">Nightmare Customer • Celestial Body • Stellar Frequencies • Andromeda Casino</font>
+    </td>
+  </tr>
+</table>
+
+  <br>
+
+<h3>🚀 Hackathons</h3>
+<table style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 15px; color: white; width: 85%;">
+  <!-- UNIHACK 2026 -->
+  <tr>
+    <td colspan="2" align="left" style="padding: 15px;">
+      <img src="https://img.icons8.com/fluency/30/medal.png" align="center"/> <b>UNIHACK 2026</b> — <a href="https://github.com/bisquitew/Hop"><b>hop</b></a>
+      <br>
+      <code style="color: #9400D3;">&gt; Award: 1st Place — Best Use of Gemini API Cross-Quartier (MLH)</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+      <b>Tech Stack</b><br>
+      <font size="2" color="#8b949e">React Native (Expo) | Node.js | Hono | TimescaleDB | Auth0 | Solana | Gemini</font>
+    </td>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+      <b>What We Built</b><br>
+      <font size="1" color="#d2a8ff">13-module civic platform for Timișoara with live utility/transit alerts, smart parking, voice Gemini AI, Auth0 RBAC + MFA, & Solana POAP ticketing</font>
+    </td>
+  </tr>
+
+  <!-- ITfest 2026 -->
+  <tr>
+    <td colspan="2" align="left" style="padding: 15px; border-top: 2px solid #30363d;">
+      <img src="https://img.icons8.com/fluency/30/medal.png" align="center"/> <b>ITfest 2026</b> — <a href="https://github.com/bisquitew/Parkie"><b>Parkie</b></a>
+      <br>
+      <code style="color: #9400D3;">&gt; Award: 1st Place — Community Problem Track</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d;">
+      <b>Tech Stack</b><br>
+      <font size="2" color="#8b949e">FastAPI | YOLOv11 | OpenCV | React Native | Supabase</font>
+    </td>
+    <td align="center" width="50%" style="padding: 10px; border-top: 1px solid #30363d; border-left: 1px solid #30363d;">
+      <b>What We Built</b><br>
+      <font size="1" color="#d2a8ff">End-to-end computer vision smart parking system detecting live slot availability in 48 hours via WebSocket & 13 REST endpoints</font>
     </td>
   </tr>
 </table>
